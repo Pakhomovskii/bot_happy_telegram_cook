@@ -1,6 +1,6 @@
 # bot_happy_cook
 
-This is a simple telegram bot that can save your massages and store that in DB. Nested structure provided.
+This is a simple telegram bot that can save your messages and store that in DB. Nested structure provided.
 
 Try it @cook_happy_bot on your telegram=)
 
