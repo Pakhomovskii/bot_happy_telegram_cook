@@ -1,0 +1,7 @@
+python-telegram-bot==20.0a4
+
+# optional:
+#cryptography>=3.0
+#httpx[socks]
+#aiolimiter~=1.0.0
+#python-telegram-bot-raw
